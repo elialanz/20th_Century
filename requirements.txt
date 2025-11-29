@@ -1,5 +1,0 @@
-textblob
-pandas
-seaborn
-matplotlib
-nltk
