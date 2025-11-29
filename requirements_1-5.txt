@@ -1,0 +1,5 @@
+textblob == 0.17.1
+pandas
+seaborn
+matplotlib
+nltk == 3.7
