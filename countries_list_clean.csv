@@ -1,0 +1,210 @@
+,Unnamed: 0,country_name,country_clean,country_lower
+0,1, Afghanistan ,Afghanistan,afghanistan
+1,2,  Albania ,Albania,albania
+2,3,  Algeria ,Algeria,algeria
+3,4,  Andorra ,Andorra,andorra
+4,5,  Angola ,Angola,angola
+5,6,  Antigua and Barbuda ,Antigua and Barbuda,antigua and barbuda
+6,7,  Argentina ,Argentina,argentina
+7,8,  Armenia ,Armenia,armenia
+8,9,  Australia ,Australia,australia
+9,10,  Austria ,Austria,austria
+10,11,  Azerbaijan,Azerbaijan,azerbaijan
+11,12," Bahamas, The ","Bahamas, The","bahamas, the"
+12,13,  Bahrain ,Bahrain,bahrain
+13,14,  Bangladesh ,Bangladesh,bangladesh
+14,15,  Barbados ,Barbados,barbados
+15,16,  Belarus ,Belarus,belarus
+16,17,  Belgium ,Belgium,belgium
+17,18,  Belize ,Belize,belize
+18,19,  Benin ,Benin,benin
+19,20,  Bhutan ,Bhutan,bhutan
+20,21,  Bolivia ,Bolivia,bolivia
+21,22,  Bosnia and Herzegovina ,Bosnia and Herzegovina,bosnia and herzegovina
+22,23,  Botswana ,Botswana,botswana
+23,24,  Brazil ,Brazil,brazil
+24,25,  Brunei ,Brunei,brunei
+25,26,  Bulgaria ,Bulgaria,bulgaria
+26,27,  Burkina Faso ,Burkina Faso,burkina faso
+27,28,  Burundi,Burundi,burundi
+28,29, Cambodia ,Cambodia,cambodia
+29,30,  Cameroon ,Cameroon,cameroon
+30,31,  Canada ,Canada,canada
+31,32,  Cape Verde ,Cape Verde,cape verde
+32,33,  Central African Republic ,Central African Republic,central african republic
+33,34,  Chad ,Chad,chad
+34,35,  Chile ,Chile,chile
+35,36,"  China, People's Republic of ","China, People's Republic of","china, people's republic of"
+36,37,  Colombia ,Colombia,colombia
+37,38,  Comoros ,Comoros,comoros
+38,39,"  Congo, Democratic Republic of the ","Congo, Democratic Republic of the","congo, democratic republic of the"
+39,40,"  Congo, Republic of the ","Congo, Republic of the","congo, republic of the"
+40,41,  Costa Rica ,Costa Rica,costa rica
+41,42,  Croatia ,Croatia,croatia
+42,43,  Cuba ,Cuba,cuba
+43,44,  Cyprus ,Cyprus,cyprus
+44,45,  Czech Republic,Czech Republic,czech republic
+45,46,  Denmark ,Denmark,denmark
+46,47,   Djibouti ,Djibouti,djibouti
+47,48,   Dominica ,Dominica,dominica
+48,49,   Dominican Republic,Dominican Republic,dominican republic
+49,50,  East Timor ,East Timor,east timor
+50,51,   Ecuador ,Ecuador,ecuador
+51,52,   Egypt ,Egypt,egypt
+52,53,   El Salvador ,El Salvador,el salvador
+53,54,   Equatorial Guinea ,Equatorial Guinea,equatorial guinea
+54,55,   Eritrea ,Eritrea,eritrea
+55,56,   Estonia ,Estonia,estonia
+56,57,   Eswatini ,Eswatini,eswatini
+57,58,   Ethiopia,Ethiopia,ethiopia
+58,59,  Fiji ,Fiji,fiji
+59,60,   Finland ,Finland,finland
+60,61,   France,France,france
+61,62,  Gabon ,Gabon,gabon
+62,63,"   Gambia, The ","Gambia, The","gambia, the"
+63,64,   Georgia ,Georgia,georgia
+64,65,   Germany ,Germany,germany
+65,66,   Ghana ,Ghana,ghana
+66,67,   Greece ,Greece,greece
+67,68,   Grenada ,Grenada,grenada
+68,69,   Guatemala ,Guatemala,guatemala
+69,70,   Guinea ,Guinea,guinea
+70,71,   Guinea,Guinea,guinea
+71,72,Bissau ,Bissau,bissau
+72,73,   Guyana,Guyana,guyana
+73,74,  Haiti ,Haiti,haiti
+74,75,   Honduras ,Honduras,honduras
+75,76,   Hungary,Hungary,hungary
+76,77,  Iceland ,Iceland,iceland
+77,78,   India ,India,india
+78,79,   Indonesia ,Indonesia,indonesia
+79,80,   Iran ,Iran,iran
+80,81,   Iraq ,Iraq,iraq
+81,82,   Ireland ,Ireland,ireland
+82,83,   Israel ,Israel,israel
+83,84,   Italy ,Italy,italy
+84,85,   Ivory Coast,Ivory Coast,ivory coast
+85,86,  Jamaica ,Jamaica,jamaica
+86,87,   Japan ,Japan,japan
+87,88,   Jordan,Jordan,jordan
+88,89,  Kazakhstan ,Kazakhstan,kazakhstan
+89,90,   Kenya ,Kenya,kenya
+90,91,   Kiribati ,Kiribati,kiribati
+91,92,"   Korea, North ","Korea, North","korea, north"
+92,93,"   Korea, South ","Korea, South","korea, south"
+93,94,   Kuwait ,Kuwait,kuwait
+94,95,   Kyrgyzstan,Kyrgyzstan,kyrgyzstan
+95,96,  Laos ,Laos,laos
+96,97,   Latvia ,Latvia,latvia
+97,98,   Lebanon ,Lebanon,lebanon
+98,99,   Lesotho ,Lesotho,lesotho
+99,100,   Liberia ,Liberia,liberia
+100,101,   Libya ,Libya,libya
+101,102,   Liechtenstein ,Liechtenstein,liechtenstein
+102,103,   Lithuania ,Lithuania,lithuania
+103,104,   Luxembourg,Luxembourg,luxembourg
+104,105,  Madagascar ,Madagascar,madagascar
+105,106,   Malawi ,Malawi,malawi
+106,107,   Malaysia ,Malaysia,malaysia
+107,108,   Maldives ,Maldives,maldives
+108,109,   Mali ,Mali,mali
+109,110,   Malta ,Malta,malta
+110,111,   Marshall Islands ,Marshall Islands,marshall islands
+111,112,   Mauritania ,Mauritania,mauritania
+112,113,   Mauritius ,Mauritius,mauritius
+113,114,   Mexico ,Mexico,mexico
+114,115,"   Micronesia, Federated States of ","Micronesia, Federated States of","micronesia, federated states of"
+115,116,   Moldova ,Moldova,moldova
+116,117,   Monaco ,Monaco,monaco
+117,118,   Mongolia ,Mongolia,mongolia
+118,119,   Montenegro ,Montenegro,montenegro
+119,120,   Morocco ,Morocco,morocco
+120,121,   Mozambique ,Mozambique,mozambique
+121,122,   Myanmar,Myanmar,myanmar
+122,123,  Namibia ,Namibia,namibia
+123,124,   Nauru ,Nauru,nauru
+124,125,     Nepal ,Nepal,nepal
+125,126,   Netherlands ,Netherlands,netherlands
+126,127,   New Zealand ,New Zealand,new zealand
+127,128,   Nicaragua ,Nicaragua,nicaragua
+128,129,   Niger ,Niger,niger
+129,130,   Nigeria ,Nigeria,nigeria
+130,131,   North Macedonia ,North Macedonia,north macedonia
+131,132,   Norway,Norway,norway
+132,133,  Oman,Oman,oman
+133,134,  Pakistan ,Pakistan,pakistan
+134,135,   Palau ,Palau,palau
+135,136,   Palestine ,Palestine,palestine
+136,137,   Panama ,Panama,panama
+137,138,   Papua New Guinea ,Papua New Guinea,papua new guinea
+138,139,   Paraguay ,Paraguay,paraguay
+139,140,   Peru ,Peru,peru
+140,141,   Philippines ,Philippines,philippines
+141,142,   Poland ,Poland,poland
+142,143,   Portugal,Portugal,portugal
+143,144,  Qatar,Qatar,qatar
+144,145,  Romania ,Romania,romania
+145,146,   Russia ,Russia,russia
+146,147,   Rwanda,Rwanda,rwanda
+147,148,  Saint Kitts and Nevis ,Saint Kitts and Nevis,saint kitts and nevis
+148,149,   Saint Lucia ,Saint Lucia,saint lucia
+149,150,   Saint Vincent and the Grenadines ,Saint Vincent and the Grenadines,saint vincent and the grenadines
+150,151,   Samoa ,Samoa,samoa
+151,152,   San Marino ,San Marino,san marino
+152,153,   São Tomé and Príncipe ,São Tomé and Príncipe,são tomé and príncipe
+153,154,   Saudi Arabia ,Saudi Arabia,saudi arabia
+154,155,   Senegal ,Senegal,senegal
+155,156,   Serbia ,Serbia,serbia
+156,157,   Seychelles ,Seychelles,seychelles
+157,158,   Sierra Leone ,Sierra Leone,sierra leone
+158,159,   Singapore ,Singapore,singapore
+159,160,   Slovakia ,Slovakia,slovakia
+160,161,   Slovenia ,Slovenia,slovenia
+161,162,   Solomon Islands ,Solomon Islands,solomon islands
+162,163,   Somalia ,Somalia,somalia
+163,164,   South Africa ,South Africa,south africa
+164,165,   South Sudan ,South Sudan,south sudan
+165,166,   Spain ,Spain,spain
+166,167,   Sri Lanka ,Sri Lanka,sri lanka
+167,168,   Sudan ,Sudan,sudan
+168,169,   Suriname ,Suriname,suriname
+169,170,   Sweden ,Sweden,sweden
+170,171,    Switzerland ,Switzerland,switzerland
+171,172,   Syria,Syria,syria
+172,173,  Tajikistan ,Tajikistan,tajikistan
+173,174,   Tanzania ,Tanzania,tanzania
+174,175,   Thailand ,Thailand,thailand
+175,176,   Togo ,Togo,togo
+176,177,   Tonga ,Tonga,tonga
+177,178,   Trinidad and Tobago ,Trinidad and Tobago,trinidad and tobago
+178,179,   Tunisia ,Tunisia,tunisia
+179,180,   Turkey ,Turkey,turkey
+180,181,   Turkmenistan ,Turkmenistan,turkmenistan
+181,182,   Tuvalu,Tuvalu,tuvalu
+182,183,  Uganda ,Uganda,uganda
+183,184,   Ukraine ,Ukraine,ukraine
+184,185,   United Arab Emirates ,United Arab Emirates,united arab emirates
+185,186,   United Kingdom ,United Kingdom,united kingdom
+186,187,   United States ,United States,united states
+187,188,   Uruguay ,Uruguay,uruguay
+188,189,   Uzbekistan,Uzbekistan,uzbekistan
+189,190,  Vanuatu ,Vanuatu,vanuatu
+190,191,    Vatican City (Holy See) ,Vatican City (Holy See),vatican city (holy see)
+191,192,   Venezuela ,Venezuela,venezuela
+192,193,   Vietnam,Vietnam,vietnam
+193,194,  Yemen,Yemen,yemen
+194,195,  Zambia ,Zambia,zambia
+195,196,   Zimbabwe,Zimbabwe,zimbabwe
+196,197,  Abkhazia ,Abkhazia,abkhazia
+197,198,   Artsakh ,Artsakh,artsakh
+198,199,   Cook Islands ,Cook Islands,cook islands
+199,200,   Donetsk People's Republic ,Donetsk People's Republic,donetsk people's republic
+200,201,   Kosovo ,Kosovo,kosovo
+201,202,   Luhansk People's Republic ,Luhansk People's Republic,luhansk people's republic
+202,203,   Niue ,Niue,niue
+203,204,   Northern Cyprus ,Northern Cyprus,northern cyprus
+204,205,   Sahrawi Arab Democratic Republic ,Sahrawi Arab Democratic Republic,sahrawi arab democratic republic
+205,206,   Somaliland ,Somaliland,somaliland
+206,207,   South Ossetia ,South Ossetia,south ossetia
+207,208,   Taiwan ,Taiwan,taiwan
+208,209,   Transnistria,Transnistria,transnistria
