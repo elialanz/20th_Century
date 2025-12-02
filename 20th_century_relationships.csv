@@ -1,78 +1,84 @@
 ,source,target,value
-2,germany,italy,28
-8,germany,poland,28
-27,germany,japan,26
+10,germany,poland,28
+32,germany,japan,26
+6,france,united kingdom,24
+2,germany,italy,24
 1,germany,russia,22
-7,france,germany,19
-39,india,pakistan,18
-25,egypt,libya,17
-28,japan,russia,16
-6,france,poland,15
+26,germany,united kingdom,21
+45,india,pakistan,18
+30,egypt,libya,17
+33,japan,russia,16
+9,france,germany,13
 0,france,russia,12
-37,india,japan,12
-41,israel,south africa,12
+43,india,japan,12
+47,israel,south africa,12
+42,japan,solomon islands,11
 3,austria,germany,11
-66,united states,vietnam,11
-43,iran,libya,11
-36,japan,solomon islands,11
-61,cuba,vietnam,9
-65,cambodia,vietnam,8
-22,france,italy,7
-10,estonia,latvia,6
-12,lithuania,poland,6
-74,afghanistan,pakistan,6
-75,romania,russia,6
-72,italy,japan,6
-11,latvia,lithuania,6
-13,finland,poland,6
-19,belgium,netherlands,6
-18,belgium,germany,6
-20,luxembourg,netherlands,6
-40,israel,pakistan,6
-38,france,india,6
-42,israel,libya,6
-34,singapore,thailand,6
-33,japan,thailand,6
-30,algeria,morocco,6
-58,hungary,romania,6
-60,cuba,mongolia,6
-49,ghana,kenya,6
-48,cambodia,kenya,6
-47,cambodia,laos,6
-52,estonia,lithuania,6
-46,laos,pakistan,6
-14,finland,germany,6
-15,denmark,poland,6
-16,denmark,norway,6
-56,bulgaria,poland,6
-51,estonia,poland,6
-55,albania,bulgaria,6
-57,poland,romania,6
-63,australia,canada,6
-53,finland,lithuania,6
-9,estonia,germany,5
-70,rwanda,south africa,5
-68,russia,united states,5
-17,germany,norway,5
-21,france,luxembourg,5
-54,albania,finland,5
-76,india,singapore,5
-26,egypt,iraq,5
-31,algeria,italy,5
-35,japan,singapore,5
-59,hungary,mongolia,5
-67,cuba,united states,5
-71,finland,russia,4
+72,united states,vietnam,11
+49,iran,libya,11
+7,france,poland,10
+25,italy,united kingdom,10
+67,cuba,vietnam,9
+71,cambodia,vietnam,8
+24,france,italy,7
+78,italy,japan,6
+80,afghanistan,pakistan,6
+81,romania,russia,6
+16,finland,germany,6
+17,denmark,poland,6
+12,estonia,latvia,6
+13,latvia,lithuania,6
+14,lithuania,poland,6
+59,finland,lithuania,6
+15,finland,poland,6
+18,denmark,norway,6
+22,luxembourg,netherlands,6
+35,algeria,morocco,6
+46,israel,pakistan,6
+44,france,india,6
+48,israel,libya,6
+40,singapore,thailand,6
+63,poland,romania,6
+62,bulgaria,poland,6
+64,hungary,romania,6
+66,cuba,mongolia,6
+55,ghana,kenya,6
+54,cambodia,kenya,6
+53,cambodia,laos,6
+58,estonia,lithuania,6
+52,laos,pakistan,6
+39,japan,thailand,6
+21,belgium,netherlands,6
+20,belgium,germany,6
+69,australia,canada,6
+57,estonia,poland,6
+61,albania,bulgaria,6
+8,poland,united kingdom,5
+74,russia,united states,5
+73,cuba,united states,5
+11,estonia,germany,5
+60,albania,finland,5
+34,morocco,united kingdom,5
+19,germany,norway,5
+23,france,luxembourg,5
+31,egypt,iraq,5
+82,india,singapore,5
+76,rwanda,south africa,5
+36,algeria,italy,5
+41,japan,singapore,5
+65,hungary,mongolia,5
 4,germany,spain,4
-23,albania,ukraine,4
-45,france,japan,4
-62,canada,vietnam,4
-44,germany,iran,4
-64,australia,vietnam,4
-73,iran,united states,3
-24,libya,ukraine,3
-32,france,netherlands,3
-5,france,spain,2
-29,italy,morocco,2
-50,ghana,poland,1
-69,india,south africa,1
+77,finland,russia,4
+51,france,japan,4
+50,germany,iran,4
+28,albania,ukraine,4
+68,canada,vietnam,4
+70,australia,vietnam,4
+29,libya,ukraine,3
+79,iran,united states,3
+27,albania,united kingdom,3
+5,spain,united kingdom,2
+38,netherlands,united kingdom,2
+37,france,netherlands,1
+56,ghana,poland,1
+75,india,south africa,1
